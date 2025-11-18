@@ -1,0 +1,19 @@
+{
+    "name": "com.github.neformal.ruler",
+    "version": "1.0.0",
+    "displayName": "Ruler",
+    "description": "Measurement Tool",
+    "unity": "2022.3",
+    "unityRelease": "0b5",
+    "documentationUrl": "https://github.com/neFormal/Ruler",
+    "changelogUrl": "https://github.com/neFormal/Ruler",
+    "licensesUrl": "https://github.com/neFormal/Ruler",
+    "dependencies": {
+    },
+    "keywords": ["Editor Tools"],
+    "author": {
+        "name": "neFormal",
+        "email": "",
+        "url": "https://github.com/neFormal/"
+    }
+}
